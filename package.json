@@ -1,13 +1,12 @@
 {
-  "name": "npm-tests",
+  "name": "@adamrharrison/npm-tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "tests",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "echo 'preinstall'"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adamrharrison/npm-tests.git"
